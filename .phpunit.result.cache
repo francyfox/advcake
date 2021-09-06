@@ -1,0 +1,1 @@
+{"version":1,"defects":{"TestMessage::testMessageIsReversed":3,"TestMessage::testMessageIsAllUppercase":3,"TestMessage::testMessageWithSpecialChars":3},"times":{"TestMessage::testMessageIsReversed":0.002,"TestMessage::testMessageIsAllUppercase":0.002,"TestMessage::testMessageIsAllLowercase":0.002,"TestMessage::testMessageWithSpecialChars":0.003}}
